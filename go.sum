@@ -1,0 +1,6 @@
+github.com/OneThing98/containerpkg v0.0.0-20240913104539-60198290334d h1:jKxR8ckxqzkQ9WSfkAC2WMajqQQJCxNZ345YqvgX0Cs=
+github.com/OneThing98/containerpkg v0.0.0-20240913104539-60198290334d/go.mod h1:cM/r0u4nmwTw/cglwHjEoVPEdt3cHxrz8peFLg7I9vw=
+github.com/OneThing98/namespaces v0.0.0-20240926085308-16e375a97c32 h1:89LUP8QAJWCAMnrSpE0m5ZtG1gWYgL2fwncWTe7+Qzk=
+github.com/OneThing98/namespaces v0.0.0-20240926085308-16e375a97c32/go.mod h1:bT5EDTqWcnVsOVEsjWOVtIHuXm5h4UQwGEV3nGPBqWM=
+golang.org/x/sys v0.25.0 h1:r+8e+loiHxRqhXVl6ML1nO3l1+oFoWbnlu2Ehimmi34=
+golang.org/x/sys v0.25.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=

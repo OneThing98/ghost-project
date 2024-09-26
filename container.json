@@ -1,0 +1,10 @@
+{
+    "id": "test-container",
+    "command": {
+      "args": ["/bin/bash"]
+    },
+    "rootfs": "/home/rojin/dev/test",
+    "namespaces": ["NEWNET", "NEWIPC", "NEWNS", "NEWPID", "NEWUTS"],
+    "capabilities": ["SYS_ADMIN", "SYS_RESOURCE"]
+  }
+  
